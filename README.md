@@ -7,3 +7,6 @@ Created a fully functioning dashboard using Tableau using Minnesota Department o
 
 -Traffic volume on different holidays
 
+Access this dashboard using the following link 
+
+https://public.tableau.com/app/profile/sabarish.g2073/viz/BI_16964421433590/Dashboard1?publish=yes
